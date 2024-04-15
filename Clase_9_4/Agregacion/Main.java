@@ -1,4 +1,4 @@
-package Clase_9_4.Agregacion;
+package Agregacion;
 
 public class Main {
     public static void main(String[] args) {
